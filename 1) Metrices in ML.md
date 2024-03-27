@@ -35,3 +35,7 @@
 •	Normalized Mutual Information (NMI)
 •	Homogeneity, Completeness, and V-measure
 •	Jaccard Coefficient
+
+
+For More info regarding all the metrices follow :-
+[link](https://neptune.ai/blog/performance-metrics-in-machine-learning-complete-guide#:~:text=Metrics%20are%20used%20to%20monitor,it)%2C%20such%20as%20MSE.)
