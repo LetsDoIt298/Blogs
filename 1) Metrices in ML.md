@@ -7,7 +7,7 @@
 ## Regression Metrics:
 •	Mean Squared Error (MSE) <br>
 •	Root Mean Squared Error (RMSE) <br>
-•	Mean Absolute Error (MAE)
+•	Mean Absolute Error (MAE) <br>
 •	R-squared (Coefficient of Determination)
 •	Mean Absolute Percentage Error (MAPE)
 •	Median Absolute Error
