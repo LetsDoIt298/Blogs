@@ -8,7 +8,7 @@
 •	Mean Squared Error (MSE) <br>
 •	Root Mean Squared Error (RMSE) <br>
 •	Mean Absolute Error (MAE) <br>
-•	R-squared (Coefficient of Determination)
+•	R-squared (Coefficient of Determination) <br>
 •	Mean Absolute Percentage Error (MAPE)
 •	Median Absolute Error
 •	Explained Variance Score
