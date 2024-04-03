@@ -10,7 +10,7 @@
 •	Mean Absolute Error (MAE) <br>
 •	R-squared (Coefficient of Determination) <br>
 •	Mean Absolute Percentage Error (MAPE) <br>
-•	Median Absolute Error
+•	Median Absolute Error <br>
 •	Explained Variance Score
 •	Relative Squared Error
 •	Root Mean Squared Logarithmic Error (RMSLE)
