@@ -11,7 +11,7 @@
 •	R-squared (Coefficient of Determination) <br>
 •	Mean Absolute Percentage Error (MAPE) <br>
 •	Median Absolute Error <br>
-•	Explained Variance Score
+•	Explained Variance Score <br>
 •	Relative Squared Error
 •	Root Mean Squared Logarithmic Error (RMSLE)
 ## Classification Metrics:
