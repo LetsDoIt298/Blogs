@@ -12,7 +12,7 @@
 •	Mean Absolute Percentage Error (MAPE) <br>
 •	Median Absolute Error <br>
 •	Explained Variance Score <br>
-•	Relative Squared Error
+•	Relative Squared Error <br>
 •	Root Mean Squared Logarithmic Error (RMSLE)
 ## Classification Metrics:
 •	Accuracy
