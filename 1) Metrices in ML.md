@@ -17,8 +17,8 @@
 •	Relative Squared Error <br>
 •	Root Mean Squared Logarithmic Error (RMSLE)
 ## Classification Metrics:
-•	Accuracy
-•	Precision
+•	Accuracy <br>
+•	Precision 
 •	Recall (Sensitivity)
 •	F1-score
 •	ROC-AUC (Receiver Operating Characteristic - Area Under the Curve)
