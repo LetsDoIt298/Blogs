@@ -19,7 +19,7 @@
 ## Classification Metrics:
 •	Accuracy <br>
 •	Precision <br>
-•	Recall (Sensitivity)
+•	Recall (Sensitivity) <br>
 •	F1-score
 •	ROC-AUC (Receiver Operating Characteristic - Area Under the Curve)
 •	Precision-Recall AUC
