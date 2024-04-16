@@ -20,7 +20,7 @@
 •	Accuracy <br>
 •	Precision <br>
 •	Recall (Sensitivity) <br>
-•	F1-score
+•	F1-score <br>
 •	ROC-AUC (Receiver Operating Characteristic - Area Under the Curve)
 •	Precision-Recall AUC
 •	Confusion Matrix
