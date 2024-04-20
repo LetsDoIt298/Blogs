@@ -23,7 +23,7 @@
 •	Recall (Sensitivity) <br>
 •	F1-score <br>
 •	ROC-AUC (Receiver Operating Characteristic - Area Under the Curve) <br>
-•	Precision-Recall AUC
+•	Precision-Recall AUC <br>
 •	Confusion Matrix
 •	Cohen's Kappa
 •	Matthews Correlation Coefficient (MCC)
