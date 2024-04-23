@@ -24,7 +24,7 @@
 •	F1-score <br>
 •	ROC-AUC (Receiver Operating Characteristic - Area Under the Curve) <br>
 •	Precision-Recall AUC <br>
-•	Confusion Matrix
+•	Confusion Matrix <br>
 •	Cohen's Kappa
 •	Matthews Correlation Coefficient (MCC)
 •	Log Loss (Cross-entropy loss)
