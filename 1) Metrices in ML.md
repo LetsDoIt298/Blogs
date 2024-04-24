@@ -25,7 +25,7 @@
 •	ROC-AUC (Receiver Operating Characteristic - Area Under the Curve) <br>
 •	Precision-Recall AUC <br>
 •	Confusion Matrix <br>
-•	Cohen's Kappa
+•	Cohen's Kappa <br>
 •	Matthews Correlation Coefficient (MCC)
 •	Log Loss (Cross-entropy loss)
 # Unsupervised Learning:
