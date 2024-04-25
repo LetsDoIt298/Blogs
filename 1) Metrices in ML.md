@@ -26,7 +26,7 @@
 •	Precision-Recall AUC <br>
 •	Confusion Matrix <br>
 •	Cohen's Kappa <br>
-•	Matthews Correlation Coefficient (MCC)
+•	Matthews Correlation Coefficient (MCC) <br>
 •	Log Loss (Cross-entropy loss)
 # Unsupervised Learning:
 ## Clustering Metrics:
