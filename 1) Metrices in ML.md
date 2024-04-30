@@ -27,7 +27,7 @@
 •	Confusion Matrix <br>
 •	Cohen's Kappa <br>
 •	Matthews Correlation Coefficient (MCC) <br>
-•	Log Loss (Cross-entropy loss)
+•	Log Loss (Cross-entropy loss) <br>
 # Unsupervised Learning:
 ## Clustering Metrics:
 •	Silhouette Score
