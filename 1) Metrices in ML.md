@@ -30,7 +30,7 @@
 •	Log Loss (Cross-entropy loss) <br>
 # Unsupervised Learning:
 ## Clustering Metrics:
-•	Silhouette Score
+•	Silhouette Score <br>
 •	Davies–Bouldin Index
 •	Calinski-Harabasz Index
 •	Dunn Index
