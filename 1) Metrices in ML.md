@@ -31,7 +31,7 @@
 # Unsupervised Learning:
 ## Clustering Metrics:
 •	Silhouette Score <br>
-•	Davies–Bouldin Index
+•	Davies–Bouldin Index <br>
 •	Calinski-Harabasz Index
 •	Dunn Index
 •	Adjusted Rand Index
