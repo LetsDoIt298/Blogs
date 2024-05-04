@@ -32,7 +32,7 @@
 ## Clustering Metrics:
 •	Silhouette Score <br>
 •	Davies–Bouldin Index <br>
-•	Calinski-Harabasz Index
+•	Calinski-Harabasz Index <br>
 •	Dunn Index
 •	Adjusted Rand Index
 •	Normalized Mutual Information (NMI)
