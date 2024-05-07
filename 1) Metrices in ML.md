@@ -33,7 +33,7 @@
 •	Silhouette Score <br>
 •	Davies–Bouldin Index <br>
 •	Calinski-Harabasz Index <br>
-•	Dunn Index
+•	Dunn Index <br>
 •	Adjusted Rand Index
 •	Normalized Mutual Information (NMI)
 •	Homogeneity, Completeness, and V-measure
