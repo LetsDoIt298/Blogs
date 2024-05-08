@@ -34,7 +34,7 @@
 •	Davies–Bouldin Index <br>
 •	Calinski-Harabasz Index <br>
 •	Dunn Index <br>
-•	Adjusted Rand Index
+•	Adjusted Rand Index <br>
 •	Normalized Mutual Information (NMI)
 •	Homogeneity, Completeness, and V-measure
 •	Jaccard Coefficient
