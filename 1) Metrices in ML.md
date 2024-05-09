@@ -35,7 +35,7 @@
 •	Calinski-Harabasz Index <br>
 •	Dunn Index <br>
 •	Adjusted Rand Index <br>
-•	Normalized Mutual Information (NMI)
+•	Normalized Mutual Information (NMI) <br>
 •	Homogeneity, Completeness, and V-measure
 •	Jaccard Coefficient
 
