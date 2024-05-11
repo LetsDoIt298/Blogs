@@ -36,7 +36,7 @@
 •	Dunn Index <br>
 •	Adjusted Rand Index <br>
 •	Normalized Mutual Information (NMI) <br>
-•	Homogeneity, Completeness, and V-measure
+•	Homogeneity, Completeness, and V-measure <br>
 •	Jaccard Coefficient
 
 
