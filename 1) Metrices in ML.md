@@ -41,7 +41,7 @@
 •	Jaccard Coefficient
 
 ## Mean Squared Error (MSE)
-•	Use When: You want to penalize larger errors more significantly.
+•	Use When: You want to penalize larger errors more significantly. <br>
 •	Characteristics: MSE calculates the average of the squares of the errors (the difference between the actual and predicted values). It's sensitive to outliers because the errors are squared.
 
 Root Mean Squared Error (RMSE)
