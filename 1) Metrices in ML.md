@@ -42,7 +42,7 @@
 
 ## Mean Squared Error (MSE)
 •	Use When: You want to penalize larger errors more significantly. <br>
-•	Characteristics: MSE calculates the average of the squares of the errors (the difference between the actual and predicted values). It's sensitive to outliers because the errors are squared.
+•	Characteristics: MSE calculates the average of the squares of the errors (the difference between the actual and predicted values). It's sensitive to outliers because the errors are squared. <br>
 
 Root Mean Squared Error (RMSE)
 Use When: Similar to MSE, but you want the error metric to have the same units as the original data.
