@@ -45,7 +45,7 @@
 •	Characteristics: MSE calculates the average of the squares of the errors (the difference between the actual and predicted values). It's sensitive to outliers because the errors are squared. <br>
 
 Root Mean Squared Error (RMSE)
-Use When: Similar to MSE, but you want the error metric to have the same units as the original data. <bbr>
+Use When: Similar to MSE, but you want the error metric to have the same units as the original data. <br>
 Characteristics: RMSE is the square root of MSE. It is also sensitive to large errors/outliers and is useful when you want to compare errors in the same unit as the target variable.
 
 Mean Absolute Error (MAE)
