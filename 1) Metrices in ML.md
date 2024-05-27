@@ -8,7 +8,7 @@
 
 # Supervised Learning:
 ## Regression Metrics:
-•	Mean Squared Error (MSE) <br>
+•	Mean Squared Error (MSE)  <br>
 •	Root Mean Squared Error (RMSE) <br>
 •	Mean Absolute Error (MAE) <br>
 •	R-squared (Coefficient of Determination) <br>
